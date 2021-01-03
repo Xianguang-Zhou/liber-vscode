@@ -99,6 +99,25 @@
   resolved "https://registry.npm.taobao.org/@types/json-schema/download/@types/json-schema-7.0.6.tgz#f4c7ec43e81b319a9815115031709f26987891f0"
   integrity sha1-9MfsQ+gbMZqYFRFQMXCfJph4kfA=
 
+"@types/lodash.trimend@^4.5.6":
+  version "4.5.6"
+  resolved "https://registry.npm.taobao.org/@types/lodash.trimend/download/@types/lodash.trimend-4.5.6.tgz#aba6dccde869458e7076f4cee67ee1b22166b7f1"
+  integrity sha1-q6bczehpRY5wdvTO5n7hsiFmt/E=
+  dependencies:
+    "@types/lodash" "*"
+
+"@types/lodash.trimstart@^4.5.6":
+  version "4.5.6"
+  resolved "https://registry.npm.taobao.org/@types/lodash.trimstart/download/@types/lodash.trimstart-4.5.6.tgz#b565f40a0eccf89f08c948e0a0215f63c743957a"
+  integrity sha1-tWX0Cg7M+J8IyUjgoCFfY8dDlXo=
+  dependencies:
+    "@types/lodash" "*"
+
+"@types/lodash@*":
+  version "4.14.166"
+  resolved "https://registry.npm.taobao.org/@types/lodash/download/@types/lodash-4.14.166.tgz#07e7f2699a149219dbc3c35574f126ec8737688f"
+  integrity sha1-B+fyaZoUkhnbw8NVdPEm7Ic3aI8=
+
 "@types/minimatch@*":
   version "3.0.3"
   resolved "https://registry.npm.taobao.org/@types/minimatch/download/@types/minimatch-3.0.3.tgz?cache=0&sync_timestamp=1605054612683&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fminimatch%2Fdownload%2F%40types%2Fminimatch-3.0.3.tgz#3dca0e3f33b200fc7d1139c0cd96c1268cadfd9d"
@@ -1340,6 +1359,16 @@ locate-path@^6.0.0:
   integrity sha1-VTIeswn+u8WcSAHZMackUqaB0oY=
   dependencies:
     p-locate "^5.0.0"
+
+lodash.trimend@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.npm.taobao.org/lodash.trimend/download/lodash.trimend-4.5.1.tgz#12804437286b98cad8996b79414e11300114082f"
+  integrity sha1-EoBENyhrmMrYmWt5QU4RMAEUCC8=
+
+lodash.trimstart@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.npm.taobao.org/lodash.trimstart/download/lodash.trimstart-4.5.1.tgz#8ff4dec532d82486af59573c39445914e944a7f1"
+  integrity sha1-j/TexTLYJIavWVc8OURZFOlEp/E=
 
 lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20:
   version "4.17.20"
