@@ -1,6 +1,6 @@
 {
 	"name": "liber-vscode",
-	"displayName": "liber-vscode",
+	"displayName": "Liber",
 	"description": "The Visual Studio Code extension of Liber language(the script language of Librian engine).",
 	"version": "0.0.1",
 	"author": {
@@ -14,6 +14,7 @@
 		"type": "git",
 		"url": "https://github.com/Xianguang-Zhou/liber-vscode.git"
 	},
+	"publisher": "Xianguang-Zhou",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
