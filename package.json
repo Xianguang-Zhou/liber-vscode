@@ -22,7 +22,7 @@
 	],
 	"activationEvents": [
 		"onLanguage:liber",
-		"onCommand:liber-vscode.helloWorld"
+		"onCommand:liber-vscode.runLibrianProject"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
@@ -40,8 +40,8 @@
 		],
 		"commands": [
 			{
-				"command": "liber-vscode.helloWorld",
-				"title": "Hello World"
+				"command": "liber-vscode.runLibrianProject",
+				"title": "Run Librian Project"
 			}
 		]
 	},
