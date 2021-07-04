@@ -99,24 +99,10 @@
   resolved "https://registry.npm.taobao.org/@types/json-schema/download/@types/json-schema-7.0.6.tgz#f4c7ec43e81b319a9815115031709f26987891f0"
   integrity sha1-9MfsQ+gbMZqYFRFQMXCfJph4kfA=
 
-"@types/lodash.trimend@^4.5.6":
-  version "4.5.6"
-  resolved "https://registry.npm.taobao.org/@types/lodash.trimend/download/@types/lodash.trimend-4.5.6.tgz#aba6dccde869458e7076f4cee67ee1b22166b7f1"
-  integrity sha1-q6bczehpRY5wdvTO5n7hsiFmt/E=
-  dependencies:
-    "@types/lodash" "*"
-
-"@types/lodash.trimstart@^4.5.6":
-  version "4.5.6"
-  resolved "https://registry.npm.taobao.org/@types/lodash.trimstart/download/@types/lodash.trimstart-4.5.6.tgz#b565f40a0eccf89f08c948e0a0215f63c743957a"
-  integrity sha1-tWX0Cg7M+J8IyUjgoCFfY8dDlXo=
-  dependencies:
-    "@types/lodash" "*"
-
-"@types/lodash@*":
-  version "4.14.166"
-  resolved "https://registry.npm.taobao.org/@types/lodash/download/@types/lodash-4.14.166.tgz#07e7f2699a149219dbc3c35574f126ec8737688f"
-  integrity sha1-B+fyaZoUkhnbw8NVdPEm7Ic3aI8=
+"@types/lodash@^4.14.170":
+  version "4.14.170"
+  resolved "https://registry.nlark.com/@types/lodash/download/@types/lodash-4.14.170.tgz?cache=0&sync_timestamp=1621593293742&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Flodash%2Fdownload%2F%40types%2Flodash-4.14.170.tgz#0d67711d4bf7f4ca5147e9091b847479b87925d6"
+  integrity sha1-DWdxHUv39MpRR+kJG4R0ebh5JdY=
 
 "@types/minimatch@*":
   version "3.0.3"
@@ -1360,20 +1346,15 @@ locate-path@^6.0.0:
   dependencies:
     p-locate "^5.0.0"
 
-lodash.trimend@^4.5.1:
-  version "4.5.1"
-  resolved "https://registry.npm.taobao.org/lodash.trimend/download/lodash.trimend-4.5.1.tgz#12804437286b98cad8996b79414e11300114082f"
-  integrity sha1-EoBENyhrmMrYmWt5QU4RMAEUCC8=
-
-lodash.trimstart@^4.5.1:
-  version "4.5.1"
-  resolved "https://registry.npm.taobao.org/lodash.trimstart/download/lodash.trimstart-4.5.1.tgz#8ff4dec532d82486af59573c39445914e944a7f1"
-  integrity sha1-j/TexTLYJIavWVc8OURZFOlEp/E=
-
 lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20:
   version "4.17.20"
   resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.20.tgz?cache=0&sync_timestamp=1597335994883&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flodash%2Fdownload%2Flodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
   integrity sha1-tEqbYpe8tpjxxRo1RaKzs2jVnFI=
+
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha1-Z5WRxWTDv/quhFTPCz3zcMPWkRw=
 
 log-symbols@4.0.0:
   version "4.0.0"
